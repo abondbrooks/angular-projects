@@ -1,2 +1,2 @@
-# learn-angular-projects
- 
+# angular-projects
+ small repo of angular projects
